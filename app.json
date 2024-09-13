@@ -1,0 +1,32 @@
+{
+  "id": "4a343db4-46f5-4b33-96ac-17a4f751e8b0",
+  "name": "Movies",
+  "publisher": "Frontierco Solutions",
+  "version": "24.0.20240912.2",
+  "brief": "Example app created",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "23.4.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "12.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
